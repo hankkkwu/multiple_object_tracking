@@ -15,4 +15,4 @@
 
 
 ##  Here is the result video on MOT16-14:
-[![result video3](http://img.youtube.com/vi/-ydTKItf1gc/1.jpg)](https://www.youtube.com/watch?v=-ydTKItf1gc "Object Tracking3")
+[![result video3](http://img.youtube.com/vi/-ydTKItf1gc/0.jpg)](https://www.youtube.com/watch?v=-ydTKItf1gc "Object Tracking3")
