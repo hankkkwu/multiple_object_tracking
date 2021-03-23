@@ -160,6 +160,7 @@ class YOLO():
                     classIds.append(classId)
                     confidences.append(float(confidence))
                     boxes.append([left, top, width, height])
+                    # boxes.append([left, top, left+width, top+height])
         # Perform non maximum suppression to eliminate redundant overlapping boxes with
         # lower confidences.
         #indices = cv2.dnn.NMSBoxes(boxes, confidences, self.confThreshold, self.nmsThreshold) # Previous Indices
