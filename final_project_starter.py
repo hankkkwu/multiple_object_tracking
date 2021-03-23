@@ -192,7 +192,7 @@ A false negative means that you didn't detect an obstacle that should have been 
 We'll solve it by introducing a MAX_AGE variable. If an obstacle is suddently unmatched, we keep displaying it. If it is unmatched again, or more times, we remove it.
 """
 
-MIN_HIT_STREAK = 4
+MIN_HIT_STREAK = 3
 MAX_UNMATCHED_AGE = 4
 
 """
